@@ -1,12 +1,12 @@
-¡Hola! 👋 Soy Simón
+# ¡Hola! 👋 Soy Simón
 
-🎓 Estudiante de Estadística | Universidad Nacional de Colombia
+## 🎓 Estudiante de Estadística | Universidad Nacional de Colombia
 
-Actualmente curso sexto semestre de Estadística y cada vez me interesa más entender cómo los datos pueden convertirse en información útil para explicar fenómenos, encontrar patrones y tomar decisiones.
+# Actualmente curso sexto semestre de Estadística y cada vez me interesa más entender cómo los datos pueden convertirse en información útil para explicar fenómenos, encontrar patrones y tomar decisiones.
 
 Siempre me han gustado los números, pero lo que más me llama la atención de la estadística es poder ir más allá de ellos: formular preguntas, analizar datos y encontrar respuestas utilizando herramientas matemáticas, estadísticas y computacionales.
 
-📊 ¿Qué me interesa?
+## 📊 ¿Qué me interesa?
 
 Mi formación me ha llevado a interesarme especialmente por:
 
@@ -20,7 +20,7 @@ Mi formación me ha llevado a interesarme especialmente por:
 
 Me gusta aprender entendiendo el porqué de las cosas, no solamente aprendiendo a ejecutar una fórmula o un código.
 
-🛠️ Herramientas
+## 🛠️ Herramientas
 
 Lenguajes y software
 
@@ -31,7 +31,7 @@ Lenguajes y software
 
 Actualmente sigo fortaleciendo mis conocimientos en programación y buscando nuevas formas de utilizar estas herramientas para resolver problemas estadísticos.
 
-📚 En lo que estoy trabajando
+## 📚 En lo que estoy trabajando
 
 Durante mi formación en Estadística he trabajado y estoy profundizando en temas como:
 
@@ -47,7 +47,7 @@ Durante mi formación en Estadística he trabajado y estoy profundizando en tema
 
 📊 R y RStudio — análisis estadístico y exploración de datos.
 
-💻 Proyectos
+## 💻 Proyectos
 
 Este repositorio es parte de mi proceso de aprendizaje y de la construcción de mi portafolio como estudiante de Estadística.
 
@@ -55,7 +55,7 @@ Aquí iré reuniendo proyectos, trabajos académicos y experimentos en los que p
 
 Mi objetivo es que cada proyecto no sea solamente código, sino una oportunidad para plantear una pregunta, trabajar con datos y obtener conclusiones que tengan sentido estadístico.
 
-🚀 Hacia dónde voy
+## 🚀 Hacia dónde voy
 
 Quiero seguir desarrollándome en la intersección entre estadística, datos y programación.
 
